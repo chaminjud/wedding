@@ -182,7 +182,52 @@ h2.subtitle{
 .btn:hover{
     background:rgb(109, 172, 124);
 }
+section.whoami{
+    background-color:rgb(237, 242, 239);
+    padding-top:50px;
+ }
+ .leftbox{
+     width:60%;
+     float:left;
+     position:relative;
+ }
+ .leftbox img{
+     position:absolute;
+ }
+ img.aboutme{
+     top:25px;
+ }
+ img.aboutme2{
+     top: 280px;
+     right:60px;
+     border:15px solid rgb(237, 242, 239);
+     z-index:2;
+ }
+ .rightbox{
+     width:40%;
+     float:right;
+ }
+ .rightbox h1{
+     font-size: 36px;
+     line-height:1.5;
+ }
+ .rightbox p{
+     line-height:1.6;
+ }
+ .whoami .btn{
+     margin-left:0;
+ }
+ 
+.content_type_1 {
+    width: 100%;
+    background-color:#333;    
+}
 
+.subcontent_type_1 {
+    float: left;
+    border: 3px solid white;
+    width: 33%;
+}
 /*
 rgb(237, 242, 239)
 */
