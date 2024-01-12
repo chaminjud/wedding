@@ -186,6 +186,7 @@ section.whoami{
     background-color:rgb(237, 242, 239);
     padding-top:50px;
     height: auto;
+
  }
  .leftbox{
      width:60%;
@@ -227,6 +228,19 @@ section.whoami{
     background-color: black;
     background-position: right;
  }
+     margin-left:0;
+ }
+ 
+.content_type_1 {
+    width: 100%;
+    background-color:#333;    
+}
+
+.subcontent_type_1 {
+    float: left;
+    border: 3px solid white;
+    width: 33%;
+}
 /*
 rgb(237, 242, 239)
 */
