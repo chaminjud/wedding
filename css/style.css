@@ -185,6 +185,8 @@ h2.subtitle{
 section.whoami{
     background-color:rgb(237, 242, 239);
     padding-top:50px;
+    height: auto;
+
  }
  .leftbox{
      width:60%;
@@ -215,6 +217,17 @@ section.whoami{
      line-height:1.6;
  }
  .whoami .btn{
+    clear: both;
+     margin-left:0;
+ }
+ 
+ .cha{
+    width: 200px;
+    height: 200px;
+    border:1px solid #333;
+    background-color: black;
+    background-position: right;
+ }
      margin-left:0;
  }
 
