@@ -217,7 +217,12 @@ section.whoami{
  .whoami .btn{
      margin-left:0;
  }
- 
+ .box10{
+    width:200px;
+    height:200px;
+    margin-left:1700px;
+    background-color: #fff;
+ }
 /*
 rgb(237, 242, 239)
 */
